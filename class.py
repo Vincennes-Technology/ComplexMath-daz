@@ -1,6 +1,6 @@
 #!/usr/bin/python
 #Diego A-Z
-#Templates and ideas by Justin19932012
+#ideas by Justin19932012
 import math
 
 pi = 3.14
